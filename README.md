@@ -1,0 +1,1 @@
+This is a collection of solved problems from [Online Judge](https://onlinejudge.org/) done within the SPR class (programming seminar). Each file will be named with its corresponding problem's ID.
